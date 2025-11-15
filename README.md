@@ -1,4 +1,4 @@
-# HNG Lone Cone – Cryptocurrency Wallet Mobile App
+# HNG LoneCoin – Cryptocurrency Wallet Mobile App
 
 A modern, secure, and user-friendly cryptocurrency wallet application built with React Native and Expo. HNG Lone Cone provides real-time market data, portfolio tracking, and seamless crypto transactions all in one place.
 
